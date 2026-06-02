@@ -1,0 +1,29 @@
+<svg width="1200" height="190" viewBox="0 0 1200 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">奶油苏打主题页尾</title>
+  <desc id="desc">可爱的书桌页尾插画，带有书本、杯子、小花、星星和柔软草地。</desc>
+  <rect x="1" y="19" width="1198" height="164" rx="27" fill="#FFF9F0" stroke="#DDB6BE" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M2 138C180 106 351 146 532 125C741 102 956 148 1198 103V182H2V138Z" fill="#CDE6DA"/>
+  <path d="M2 161C205 132 367 166 582 146C803 126 989 161 1198 132V182H2V161Z" fill="#AED7C7"/>
+  <g transform="translate(461 73)">
+    <rect x="0" y="27" width="172" height="54" rx="9" fill="#F8C9D3"/>
+    <rect x="17" y="0" width="172" height="54" rx="9" fill="#B7DDEA"/>
+    <rect x="34" y="-26" width="172" height="54" rx="9" fill="#FFF3C9"/>
+    <path d="M56 -10H179" stroke="#DFA67D" stroke-width="4" stroke-linecap="round"/>
+    <path d="M39 16H173" stroke="#83AFC9" stroke-width="4" stroke-linecap="round"/>
+    <path d="M20 43H155" stroke="#E68A9E" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(724 74)">
+    <path d="M0 18H88V72C88 92 72 108 52 108H36C16 108 0 92 0 72V18Z" fill="#FFF8F1" stroke="#83AFC9" stroke-width="4"/>
+    <path d="M88 36H107C125 36 125 72 107 72H89" stroke="#83AFC9" stroke-width="4"/>
+    <path d="M25 4C15 -6 24 -18 16 -27M52 4C42 -6 51 -18 43 -27M75 4C65 -6 74 -18 66 -27" stroke="#E6B7C0" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(317 110)">
+    <circle cx="0" cy="0" r="15" fill="#F8C9D3"/>
+    <circle cx="23" cy="0" r="15" fill="#F8C9D3"/>
+    <circle cx="11" cy="-14" r="15" fill="#F8C9D3"/>
+    <circle cx="11" cy="14" r="15" fill="#F8C9D3"/>
+    <circle cx="11" cy="0" r="10" fill="#F4C767"/>
+  </g>
+  <path d="M918 58L926 78L947 79L930 92L935 113L918 101L901 113L906 92L889 79L910 78L918 58Z" fill="#F4C767"/>
+  <path d="M212 63L219 81L239 82L223 94L228 113L212 102L196 113L201 94L185 82L205 81L212 63Z" fill="#E68A9E"/>
+</svg>

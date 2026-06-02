@@ -1,24 +1,34 @@
-# Field Notes Theme
+# Cream Soda Stationery Theme
 
 ## Direction
 
-An editorial developer workbench: warm paper, dark ink, sparse technical marks, and restrained blueprint accents. The profile should feel personal and maintained rather than assembled from a badge catalog.
+A cute but composed developer profile inspired by a tiny stationery shop: warm, friendly, practical, and easy to scan. The visual language uses flat SVG illustrations rather than character IP or decorative overload.
 
 ## Palette
 
 | Token | Value | Use |
 | --- | --- | --- |
-| Paper | `#F7F0DB` | Primary background |
-| Aged paper | `#E4D0AB` | Soft depth |
-| Ink | `#27313A` | Main text and linework |
-| Copper | `#B85D35` | Warm accent |
-| Blueprint | `#47768E` | Cool secondary accent |
-| Pale blue | `#6F9BB3` | Atmospheric highlight |
+| Cream paper | `#FFF9F0` | Main illustration background |
+| Peach milk | `#FCE8DE` | Warm secondary surface |
+| Cocoa text | `#79636B` | Main linework and labels |
+| Strawberry pink | `#E68A9E` | Friendly accent |
+| Mint green | `#83B8A7` | Nature and status accent |
+| Soda blue | `#83AFC9` | Cool balancing accent |
+| Honey yellow | `#F4C767` | Small joyful highlights |
+
+## Components
+
+- Authored SVG hero banner with a stationery-shop scene.
+- Typing SVG welcome line inspired by common Profile README patterns.
+- Three restrained Shields.io status badges.
+- Curated two-by-two project table.
+- Profile Summary and contribution streak cards with light/dark variants.
+- Authored SVG divider and footer illustrations.
 
 ## Principles
 
-- Use one authored banner as the visual anchor.
-- Keep README sections concise and readable in both GitHub themes.
-- Prefer selected projects over exhaustive lists.
-- Use external cards sparingly and provide meaningful alt text.
-- Avoid animated widgets, dense badge walls, and claims that cannot be verified.
+- Cute, not crowded.
+- Keep external widgets limited and useful.
+- Prefer a clear heading hierarchy and readable body text.
+- Use meaningful alt text for every image.
+- Avoid badge walls, excessive animation, and unverified claims.
